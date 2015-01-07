@@ -1,0 +1,22 @@
+{
+  "name": "ngraph.dotlayout",
+  "version": "0.1.0",
+  "description": "Directed graph layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dot",
+    "ngraph",
+    "graph",
+    "layout",
+    "dag"
+  ],
+  "devDependencies": {
+    "ngraph.fromdot": "0.1.0",
+    "tap": "^0.4.13"
+  },
+  "author": "Andrei Kashcha",
+  "license": "MIT"
+}
